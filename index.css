@@ -10,7 +10,7 @@
     border-color: black;
     border-width: 2px;
     border-style: solid;
-    transition: all 1s linear;
+    transition: all 0.4s linear;
 }
 
 .grid:hover {
