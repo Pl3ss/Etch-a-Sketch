@@ -4,3 +4,7 @@ A project to flex my DOM manipulation skills. Aim is to build a browser version 
 
 First Commit 16/11/2022
 - Completed 16x16 grid of square divs 
+
+Second Commit 18/11/2022
+- Succeeded in adding hover effect on the grids
+
